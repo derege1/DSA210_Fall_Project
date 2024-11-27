@@ -7,13 +7,26 @@ This project explores the relationship between Spotify music listening habits an
 Spotify data includes: Music genres, listening duration, length of time for playing back
 ### Weather Data
 Weather condition includes: Temperature, precipitation, cloud density
-<h2>Technique </h2>
 
+## Strategy
+
+
+<h2>Data Compilation </h2>
 <ul>
-  <li>Export the Spotify data from Spotify privacy tool</li>
-  <li>OpenWeatherMap API to collect the weather data according to the dates</li>
+  <li>Get past weather information for identical dates and place as Spotify listening data</li>
+  <li>Export Spotify listening data from Spotify's Data Privacy Tool.</li>
 </ul>  
-<h2>Tools</h2>
+
+<h2>Process Data </h2>
+<ul>
+  <li>Combine datasets using time stamps and locations</li>
+  <li>Utilize exploratory data analysis (EDA) to recognize patterns</li>
+  <li>Utilize charts and graphs to analyze the relationship between the two data</li>
+  
+</ul>  
+
+
+<h2>Tools and Libraries</h2>
 <ul>
   <li>Pandas and Numpy for data manipulation</li>
   <li>Matplotlib and Seaborn for data visualization</li>
