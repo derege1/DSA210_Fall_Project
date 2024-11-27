@@ -17,5 +17,5 @@ Weather condition includes: Temperature, precipitation, cloud density
 <ul>
   <li>Pandas and Numpy for data manipulation</li>
   <li>Matplotlib and Seaborn for data visualization</li>
-  <li>Milk</li>
+  
 </ul>  
