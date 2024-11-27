@@ -8,7 +8,7 @@ Spotify data includes: Music genres, listening duration, length of time for play
 ### Weather Data
 Weather condition includes: Temperature, precipitation, cloud density
 
-## Strategy
+# Strategy
 
 
 <h2>Data Compilation </h2>
