@@ -6,7 +6,7 @@ This project explores the relationship between Spotify music listening habits an
 ### Spotify Data
 Spotify data includes: Music genres, listening duration, length of time for playing back
 ### Weather Data
-Weather condition includes: Temperature, precipitation, cloud density
+Weather condition includes: Temperature, precipitation
 
 # Strategy
 
